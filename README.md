@@ -72,7 +72,7 @@
 
   <br>
 
-    <!-- status beta -->
+  <!-- status beta -->
   <a href="https://github.com/edoardottt/READMENATOR">
     <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/status-beta.svg" alt="status-beta" />
   </a>
