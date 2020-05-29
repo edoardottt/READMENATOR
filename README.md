@@ -58,24 +58,57 @@
 
 Requirements
 ----------
+
+`
 Insert here
+`
+  - first
+  
+  - second
 
 Installation
 ----------
 
+`
 Insert here
+`
+  - first
+  
+  - second
+  
+```
+function codeSample(thisRepo repository) {
+    thisRepo.fork()
+}
+```
 
 Get Started
 ----------
 
-Insert  here
+`
+Insert here
+`
+  - first
+  
+  - second
 
+```
+function codeSample(thisRepo repository) {
+    thisRepo.fork()
+}
+```
 
 Usage
 -------
 
 1. Fork this repo
-7. Enjoy!
+2. Enjoy!
+
+```
+function codeSample(thisRepo repository) {
+    thisRepo.fork()
+}
+```
 
 
 Common errors here : [COMMON ERRORS](https://github.com/edoardottt/READMENATOR/blob/master/COMMON_ERRORS.md)
@@ -87,8 +120,8 @@ Just open an issue/pull request. See also [CONTRIBUTING.md](https://github.com/e
 
 **To Do:**
 
-- [x] Add comments
-- [ ] Tests
+- [x] Fork this repo
+- [ ] Enjoy!
 
 --------------------------
 If you liked it drop a :star:
