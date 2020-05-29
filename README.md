@@ -56,7 +56,7 @@
   </a>
 </p>
 
-Requirements
+Requirements 🔍
 ----------
 
 `
@@ -66,7 +66,7 @@ Insert here
   
   - second
 
-Installation
+Installation 📡
 ----------
 
 `
@@ -82,7 +82,7 @@ function codeSample(thisRepo repository) {
 }
 ```
 
-Get Started
+Get Started 🎉
 ----------
 
 `
@@ -98,7 +98,7 @@ function codeSample(thisRepo repository) {
 }
 ```
 
-Usage
+Usage ⚙️
 -------
 
 1. Fork this repo
@@ -113,7 +113,7 @@ function codeSample(thisRepo repository) {
 
 Common errors here : [COMMON ERRORS](https://github.com/edoardottt/READMENATOR/blob/master/COMMON_ERRORS.md)
 
-Contributing
+Contributing 🛠
 -------
 
 Just open an issue/pull request. See also [CONTRIBUTING.md](https://github.com/edoardottt/READMENATOR/blob/master/CONTRIBUTING.md) and [CODE OF CONDUCT.md](https://github.com/edoardottt/READMENATOR/blob/master/CODE_OF_CONDUCT.md)
