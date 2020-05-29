@@ -56,39 +56,72 @@
   </a>
 </p>
 
-Requirements
+Requirements 🔍
 ----------
+
+`
 Insert here
+`
+  - first
+  
+  - second
 
-Installation
+Installation 📡
 ----------
 
+`
 Insert here
+`
+  - first
+  
+  - second
+  
+```
+function codeSample(thisRepo repository) {
+    thisRepo.fork()
+}
+```
 
-Get Started
+Get Started 🎉
 ----------
 
-Insert  here
+`
+Insert here
+`
+  - first
+  
+  - second
 
+```
+function codeSample(thisRepo repository) {
+    thisRepo.fork()
+}
+```
 
-Usage
+Usage ⚙️
 -------
 
 1. Fork this repo
-7. Enjoy!
+2. Enjoy!
+
+```
+function codeSample(thisRepo repository) {
+    thisRepo.fork()
+}
+```
 
 
 Common errors here : [COMMON ERRORS](https://github.com/edoardottt/READMENATOR/blob/master/COMMON_ERRORS.md)
 
-Contributing
+Contributing 🛠
 -------
 
 Just open an issue/pull request. See also [CONTRIBUTING.md](https://github.com/edoardottt/READMENATOR/blob/master/CONTRIBUTING.md) and [CODE OF CONDUCT.md](https://github.com/edoardottt/READMENATOR/blob/master/CODE_OF_CONDUCT.md)
 
 **To Do:**
 
-- [x] Add comments
-- [ ] Tests
+- [x] Fork this repo
+- [ ] Enjoy!
 
 --------------------------
 If you liked it drop a :star:
