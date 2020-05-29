@@ -11,14 +11,14 @@
 <p align="center">
     <!-- mainteinance -->
       <a href="https://edoardoottavianelli.it">
-        <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/maintained-yes.png" alt="Mainteinance yes" />
+        <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/maintained-yes.svg" alt="Mainteinance yes" />
       </a>
       <a href="https://edoardoottavianelli.it">
-        <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/maintained-no.png" alt="Mainteinance no" />
+        <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/maintained-no.svg" alt="Mainteinance no" />
       </a>
     <!-- open-issues -->
       <a href="https://edoardoottavianelli.it">
-        <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/issues-0-open.png" alt="open issues" />
+        <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/issues-0-open.svg" alt="open issues" />
       </a>
   
   <!-- pr-welcome -->
@@ -72,14 +72,6 @@
 
   <br>
 
-  <!-- built-by-dev -->
-  <a href="https://github.com/edoardottt/READMENATOR">
-    <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/built-by-developers.svg" alt="built-by-developers" />
-  </a>
-  <!-- built-with-heart -->
-  <a href="https://github.com/edoardottt/READMENATOR">
-    <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/built-with-heart.svg" alt="built-with-heart" />
-  </a>
     <!-- status beta -->
   <a href="https://github.com/edoardottt/READMENATOR">
     <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/status-beta.svg" alt="status-beta" />
@@ -88,9 +80,6 @@
   <a href="https://github.com/edoardottt/READMENATOR">
     <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/docs-passing.svg" alt="docs-passing" />
   </a>
-
-  <br>
-
   <!-- ask-me-anything -->
   <a href="https://github.com/edoardottt/READMENATOR">
     <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/ask-me-anything.svg" alt="ask-me-anything" />
@@ -102,6 +91,17 @@
   <!-- website down -->
   <a href="https://github.com/edoardottt/READMENATOR">
     <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/website-down.svg" alt="website down" />
+  </a>
+
+<br>
+
+  <!-- built-by-dev -->
+  <a href="https://github.com/edoardottt/READMENATOR">
+    <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/built-by-developers.svg" alt="built-by-developers" />
+  </a>
+  <!-- built-with-heart -->
+  <a href="https://github.com/edoardottt/READMENATOR">
+    <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/built-with-heart.svg" alt="built-with-heart" />
   </a>
 
 </p>
