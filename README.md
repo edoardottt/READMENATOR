@@ -80,10 +80,6 @@
   <a href="https://github.com/edoardottt/READMENATOR">
     <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/docs-passing.svg" alt="docs-passing" />
   </a>
-  <!-- ask-me-anything -->
-  <a href="https://github.com/edoardottt/READMENATOR">
-    <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/ask-me-anything.svg" alt="ask-me-anything" />
-  </a>
   <!-- website-up -->
   <a href="https://github.com/edoardottt/READMENATOR">
     <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/website-up.svg" alt="website up" />
