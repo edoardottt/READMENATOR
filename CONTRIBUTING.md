@@ -7,7 +7,7 @@ Thanks for your interest in READMENATOR. Our goal is to bring fast, scalable ope
 READMENATOR's [open issues are here](https://github.com/edoardottt/READMENATOR/issues). 
 In time, we'll tag issues that would make a good first pull request for new contributors. 
 An easy way to get started helping the project is to *file an issue*. 
-You can do that on the gochanges issues page by clicking on the green button at the right. 
+You can do that on the READMENATOR issues page by clicking on the green button at the right. 
 Issues can include bugs to fix, features to add, or documentation that looks outdated. 
 
 ## Contributions
