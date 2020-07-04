@@ -9,6 +9,12 @@
 </p>
 <!-- badges -->
 <p align="center">
+  <!--Tweet button-->
+  <a class="twitter-share-button"
+    href="https://twitter.com/intent/tweet?text=https://github.com/edoardottt/READMENATOR"
+    data-size="large">Tweet
+  </a>
+  <br>
     <!-- mainteinance -->
       <a href="https://edoardoottavianelli.it">
         <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/maintained-yes.svg" alt="Mainteinance yes" />
