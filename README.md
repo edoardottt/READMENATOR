@@ -175,12 +175,12 @@ Just open an issue/pull request. See also [CONTRIBUTING.md](https://github.com/e
 - [x] Fork this repo
 - [ ] Enjoy!
 
---------------------------
+
 If you liked it drop a :star:
---------------------------
+-------
 
 https://www.edoardoottavianelli.it for contact me.
 
 
-  
-                                                                Edoardo Ottavianelli ©
+ 
+                                                                Edoardo Ottavianelli
