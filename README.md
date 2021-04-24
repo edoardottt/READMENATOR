@@ -176,11 +176,8 @@ Just open an issue/pull request. See also [CONTRIBUTING.md](https://github.com/e
 - [ ] Enjoy!
 
 
-If you liked it drop a :star:
+License 📝
 -------
 
-https://www.edoardoottavianelli.it for contact me.
-
-
- 
-                                                                Edoardo Ottavianelli
+This repository is under [GNU Affero General Public License v3.0](https://github.com/edoardottt/READMENATOR/blob/master/LICENSE).  
+[edoardoottavianelli.it](https://www.edoardoottavianelli.it) for contact me.
