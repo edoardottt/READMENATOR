@@ -165,6 +165,10 @@ function codeSample(thisRepo repository) {
 
 Common errors here : [COMMON ERRORS](https://github.com/edoardottt/READMENATOR/blob/master/COMMON_ERRORS.md)
 
+Changelog 📌
+-------
+Detailed changes for each release are documented in the [release notes](https://github.com/edoardottt/READMENATOR/releases).
+
 Contributing 🛠
 -------
 
