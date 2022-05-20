@@ -128,12 +128,6 @@ Insert here
   - first
   
   - second
-  
-```
-function codeSample(thisRepo repository) {
-    thisRepo.fork()
-}
-```
 
 Get Started 🎉
 ----------
@@ -146,8 +140,8 @@ Insert here
   - second
 
 ```
-function codeSample(thisRepo repository) {
-    thisRepo.fork()
+function code(this repository) {
+    this.fork();
 }
 ```
 
