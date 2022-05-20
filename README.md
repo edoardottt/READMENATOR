@@ -9,13 +9,7 @@
 </p>
 <!-- badges -->
 <p align="center">
-  <!--Tweet button-->
-  <a class="twitter-share-button"
-    href="https://twitter.com/intent/tweet?text=https://github.com/edoardottt/READMENATOR"
-    data-size="large">Tweet
-  </a>
-  <br>
-    <!-- mainteinance -->
+  <!-- mainteinance -->
       <a href="https://edoardoottavianelli.it">
         <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/maintained-yes.svg" alt="Mainteinance yes" />
       </a>
@@ -104,6 +98,13 @@
   <!-- built-with-heart -->
   <a href="https://github.com/edoardottt/READMENATOR">
     <img src="https://github.com/edoardottt/READMENATOR/blob/master/images/built-with-heart.svg" alt="built-with-heart" />
+  </a>
+  
+  <br>
+  <!--Tweet button-->
+  <a class="twitter-share-button"
+    href="https://twitter.com/intent/tweet?text=https://github.com/edoardottt/READMENATOR"
+    data-size="large">Tweet about Readmenator
   </a>
 
 </p>
