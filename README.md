@@ -158,7 +158,7 @@ function codeSample(thisRepo repository) {
 ```
 
 
-Common errors here : [COMMON ERRORS](https://github.com/edoardottt/READMENATOR/blob/master/COMMON_ERRORS.md)
+Common errors: [COMMON_ERRORS.md](https://github.com/edoardottt/READMENATOR/blob/master/COMMON_ERRORS.md)
 
 Changelog 📌
 -------
