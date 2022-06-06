@@ -172,7 +172,7 @@ Just open an issue/pull request. See also [CONTRIBUTING.md](https://github.com/e
 **To Do:**
 
 - [x] Fork this repo
-- [ ] Enjoy!
+- [x] Enjoy!
 
 
 License 📝
