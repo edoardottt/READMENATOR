@@ -179,4 +179,4 @@ License 📝
 -------
 
 This repository is under [GNU Affero General Public License v3.0](https://github.com/edoardottt/READMENATOR/blob/master/LICENSE).  
-[edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
+[edoardottt.com](https://edoardottt.com/) to contact me.
